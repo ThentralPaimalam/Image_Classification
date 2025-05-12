@@ -35,3 +35,8 @@ I made predictions on individual test images, displayed the image, and printed b
 ## Conclusion:
 
 This image classification task gave me practical exposure to handling image datasets, building CNN models, and evaluating their performance. It also taught me how to visualize results and identify areas for improvement. Overall, this was an exciting hands-on project combining computer vision and deep learning concepts.
+
+
+## Output:
+![Image](https://github.com/user-attachments/assets/8fe9a5ce-9c5e-45b3-bedc-0d18c13de2bc)
+
