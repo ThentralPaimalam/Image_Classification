@@ -44,5 +44,5 @@ This image classification task gave me practical exposure to handling image data
 
 ## Evaluation Metrics 
 
-https://github.com/ThentralPaimalam/Image_Classification/issues/2#issue-3057834391
+![Image](https://github.com/user-attachments/assets/ba4dd71f-917b-4b18-9a20-d692260c9711)
 
