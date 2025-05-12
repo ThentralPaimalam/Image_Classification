@@ -40,3 +40,6 @@ This image classification task gave me practical exposure to handling image data
 ## Output:
 ![Image](https://github.com/user-attachments/assets/8fe9a5ce-9c5e-45b3-bedc-0d18c13de2bc)
 
+![image](https://github.com/user-attachments/assets/9c047cb2-dece-4298-92a2-9b8d6f21969b)
+
+
