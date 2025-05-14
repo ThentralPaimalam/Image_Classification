@@ -1,4 +1,17 @@
 # Image_Classification
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: THENTRAL S
+
+*INTERN ID*: CT08WN69
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+## Description
 This project is about building an image classification model that can accurately recognize and categorize different types of flowers from images. For this task, I chose to work with a flower dataset that contains multiple categories like roses, sunflowers, tulips, dandelions, and daisies. Each image represents one class, and the objective is to train a model that can correctly classify unseen flower images into their respective categories.
 
 **About Dataset:**
